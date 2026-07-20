@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "32245733236",
+    "firebase_url": "https://abhikaro-d2df6-default-rtdb.firebaseio.com",
+    "project_id": "abhikaro-d2df6",
+    "storage_bucket": "abhikaro-d2df6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32245733236:android:9d6b9d24bc59188840be21",
+        "android_client_info": {
+          "package_name": "com.abhikaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32245733236-2f8mc0bn1ol40u6psj62cvg1umm6o210.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhikaro",
+            "certificate_hash": "8dc0392a013f40e545556dd7a0bfd5f2a2cdc85d"
+          }
+        },
+        {
+          "client_id": "32245733236-fu2ur5fpbncbgphhvs5atronfjbh1b8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhikaro",
+            "certificate_hash": "fdb7c01f41e95faf4bdcfd6f547472bf4446aa6c"
+          }
+        },
+        {
+          "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-sS8gCaYMHTaXMWfHjoPx8FBZ5kdHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32245733236:android:6c461abf71e3f40240be21",
+        "android_client_info": {
+          "package_name": "com.abhikaro.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-sS8gCaYMHTaXMWfHjoPx8FBZ5kdHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32245733236:android:66a2c9eb2436718940be21",
+        "android_client_info": {
+          "package_name": "com.abhikaro.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-sS8gCaYMHTaXMWfHjoPx8FBZ5kdHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32245733236:android:bd350daea6badb4640be21",
+        "android_client_info": {
+          "package_name": "com.abhikaro.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-sS8gCaYMHTaXMWfHjoPx8FBZ5kdHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32245733236:android:91d0c79e7b34b8b340be21",
+        "android_client_info": {
+          "package_name": "com.abhikaro.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32245733236-seip7d8qe8f6pm6eaniqala0o516ptug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhikaro.restaurant",
+            "certificate_hash": "8dc0392a013f40e545556dd7a0bfd5f2a2cdc85d"
+          }
+        },
+        {
+          "client_id": "32245733236-ud2328a1inp73jlguuid8jc2agfcdc1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhikaro.restaurant",
+            "certificate_hash": "d020ad5d735320e585c3e1125e34d5321b51b657"
+          }
+        },
+        {
+          "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-sS8gCaYMHTaXMWfHjoPx8FBZ5kdHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
